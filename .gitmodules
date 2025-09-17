@@ -1,0 +1,3 @@
+[submodule "package"]
+	path = package
+	url = git@github.com:robogeek/sample-app-2021-12-12.git
